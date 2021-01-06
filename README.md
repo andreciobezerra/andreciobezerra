@@ -1,15 +1,19 @@
 ## Andrécio Bezerra
 
-<a style="text-decoration:none; margin-right:5px" target='_blank' href="mailto:andreciobezerra@gmail.com">
+<a target='_blank' href="mailto:andreciobezerra@gmail.com">
+&nbsp;
   <img alt="andrecio linkedin" width="22px" src="./icons/gmail.svg" />
 </a>
-<a style="text-decoration:none; margin-right:5px" target='_blank' href="https://www.linkedin.com/in/andrecio-costa-bezerra-59980a171">
+<a target='_blank' href="https://www.linkedin.com/in/andrecio-costa-bezerra-59980a171">
+  &nbsp;
   <img alt="andrecio linkedin" width="22px" src="./icons/linkedin.svg" />
 </a>
-<a style="text-decoration:none; margin-right:5px" target='_blank' href="https://t.me/andrecio">
+<a target='_blank' href="https://t.me/andrecio">
+  &nbsp;
   <img alt="andrecio telegram" width="22px" src="./icons/telegram.svg" />
 </a>
-<a style="text-decoration:none; margin-right:5px" target='_blank' href="https://api.whatsapp.com/send?phone={{+5584999135518}}">
+<a target='_blank' href="https://api.whatsapp.com/send?phone={{+5584999135518}}">
+  &nbsp;
   <img alt="andrecio whatsapp" width="22px" src="./icons/whatsapp.svg" />
 </a>
 <br/>
@@ -25,22 +29,22 @@
 
 ### Technologies that I use and study
 
-<img style="margin-right:5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/-NodeJS-393?logo=node.js&logoColor=white&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/-Express-000?logo=express.js&logoColor=white&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=whiteSmoke&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&logoWidth=25"/>
+<img style="margin-right:5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-NodeJS-393?logo=node.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-Express-000?logo=express.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=whiteSmoke&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=whiteSmoke&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/ReactJS-blue?logo=react&logoColor=white&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/NextJS-000?logo=next.js&logoColor=white&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=25"/>
-<img style="margin-right:5px" src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&logoWidth=25"/>
+<img style="margin-right:5px" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/ReactJS-blue?logo=react&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/NextJS-000?logo=next.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&logoWidth=25"/>
 
 ### Code challenges
