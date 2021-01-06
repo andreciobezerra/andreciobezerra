@@ -1,19 +1,15 @@
 ## Andrécio Bezerra
 
 <a target='_blank' href="mailto:andreciobezerra@gmail.com">
-&nbsp;
   <img alt="andrecio linkedin" width="22px" src="./icons/gmail.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a target='_blank' href="https://www.linkedin.com/in/andrecio-costa-bezerra-59980a171">
-  &nbsp;
   <img alt="andrecio linkedin" width="22px" src="./icons/linkedin.svg" />
 </a>
 <a target='_blank' href="https://t.me/andrecio">
-  &nbsp;
   <img alt="andrecio telegram" width="22px" src="./icons/telegram.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a target='_blank' href="https://api.whatsapp.com/send?phone={{+5584999135518}}">
-  &nbsp;
   <img alt="andrecio whatsapp" width="22px" src="./icons/whatsapp.svg" />
 </a>
 <br/>
