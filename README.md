@@ -5,7 +5,7 @@
 </a>&nbsp;&nbsp;&nbsp;
 <a target='_blank' href="https://www.linkedin.com/in/andrecio-costa-bezerra-59980a171">
   <img alt="andrecio linkedin" width="22px" src="./icons/linkedin.svg" />
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a target='_blank' href="https://t.me/andrecio">
   <img alt="andrecio telegram" width="22px" src="./icons/telegram.svg" />
 </a>&nbsp;&nbsp;&nbsp;
@@ -47,7 +47,7 @@
 
 <a style="text-decoration:none" target="_blank" href="https://exercism.io/profiles/AndrecioBezerra">
   <img style="margin-right:5px" src="https://img.shields.io/badge/-Excercism-009CAB?logo=exercism&logoColor=white&logoWidth=25"/>
-</a>
+</a>&nbsp;&nbsp;
 <a style="text-decoration:none" target="_blank" href="https://www.hackerrank.com/andreciobezerra">
   <img style="margin-right:5px" src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&logoWidth=25"/>
 </a>
