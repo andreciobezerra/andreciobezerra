@@ -52,5 +52,13 @@
   <img style="margin-right:5px" src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&logoWidth=25"/>
 </a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreciobezerra&layout=compact&theme=dark)](https://github.com/andreciobezerra/github-readme-stats)
-![Andrécio's Github stats](https://github-readme-stats.vercel.app/api?username=andreciobezerra&show_icons=true&theme=dark)
+<table>
+  <tr>
+    <td>
+    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreciobezerra&layout=compact&theme=dark)](https://github.com/andreciobezerra/github-readme-stats)
+    </td>
+    <td>
+      ![Andrécio's Github stats](https://github-readme-stats.vercel.app/api?username=andreciobezerra&show_icons=true&theme=dark)
+    </td>
+  </tr>
+</table>
