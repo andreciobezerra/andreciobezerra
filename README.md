@@ -53,6 +53,7 @@
 </a>
 
 <br/>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreciobezerra&layout=compact&theme=dark)](https://github.com/andreciobezerra/github-readme-stats)
 
 ![Andrécio's Github stats](https://github-readme-stats.vercel.app/api?username=andreciobezerra&show_icons=true&theme=dark)
