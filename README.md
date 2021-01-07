@@ -17,7 +17,7 @@
 ### Hello everyone
 
 <div style="text-align:justify;">
-&nbsp;&nbsp;&nbsp;&nbsp;My name is Andrécio and I living at Natal, Brazil. I returned studied on 2017, after 14 years, due in large to the incentive of my wife.  I chose the IT bachaleour degree course at IMD/UFRN, after pass out ENEM (selective process to superior studies at Brazil). Since this, my life transformed enor-mouly, many doors opended (mainly in my proper mind) and changed my life. I started at work in IT since 2019 and love it a lot!
+&nbsp;&nbsp;&nbsp;&nbsp;My name is Andrécio and I living at Natal, Brazil. I returned studied on 2017, after 14 years, due in large to the incentive of my wife.  I chose the IT bachaleour degree course at IMD/UFRN, after pass out ENEM (selective process to superior studies at Brazil). Since this, my life transformed enormouly, many doors opended (mainly in my proper mind) and changed my life. I started at work in IT since 2019 and love it a lot!
 </div>
 <br/>
 <div style="text-align:justify;">
