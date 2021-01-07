@@ -52,3 +52,5 @@
   <img style="margin-right:5px" src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&logoWidth=25"/>
 </a>
 
+![Andrécio's Github stats](https://github-readme-stats.vercel.app/api?username=andreciobezerra&show_icons=true&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreciobezerra)](https://github.com/andreciobezerra/github-readme-stats)
