@@ -35,7 +35,7 @@
 <img style="margin-right:5px" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=whiteSmoke&logoWidth=25"/>
 <img style="margin-right:5px" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/ReactJS-blue?logo=react&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/NextJS-000?logo=next.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NextJS-000?logo=next.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
