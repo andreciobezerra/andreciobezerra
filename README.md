@@ -28,7 +28,7 @@
 <img style="margin-right:5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-NodeJS-393?logo=node.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-Express-000?logo=express.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-ExpressJS-000?logo=express&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=whiteSmoke&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
@@ -39,8 +39,6 @@
 <img style="margin-right:5px" src="https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&logoWidth=25"/>
 
 ### Code challenges
 
