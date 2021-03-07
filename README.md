@@ -24,13 +24,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I was choiced by web development(yes, it choiced me, because at many times in our lives, the paths choice us! ). Since then, I study and improve myself more and more, knowing that the knowledge road is infinity, but the walk is sublime.!
 
 ### Technologies that I use and study
-<!--<img style="margin-right:5px" src="https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;%}-->
 <img style="margin-right:5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-NodeJS-393?logo=node.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-ExpressJS-000?logo=express&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=whiteSmoke&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;%}
+<!--<img style="margin-right:5px" src="https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=whiteSmoke&logoWidth=25"/>&nbsp;&nbsp;-->
 <img style="margin-right:5px" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=whiteSmoke&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
