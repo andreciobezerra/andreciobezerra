@@ -35,11 +35,7 @@
 <img style="margin-right:5px" src="https://img.shields.io/badge/ReactJS-blue?logo=react&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-VueJS-42b883?logo=vue.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/NuxtJS-000?logo=nuxt.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=whiteSmoke&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/.Net-621EE5?logo=dotnet&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 
 ### Code challenges
 
