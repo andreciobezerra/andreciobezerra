@@ -26,9 +26,8 @@
 ### Technologies that I use and study
 <img style="margin-right:5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-CSharp-684D95?logo=csharp&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <!--<img style="margin-right:5px" src="https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=whiteSmoke&logoWidth=25"/>&nbsp;&nbsp;-->
 <img style="margin-right:5px" src="https://img.shields.io/badge/-NodeJS-393?logo=node.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-ExpressJS-000?logo=express&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
