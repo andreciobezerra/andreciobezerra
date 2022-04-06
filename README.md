@@ -34,8 +34,7 @@
 <img style="margin-right:5px" src="https://img.shields.io/badge/-ExpressJS-000?logo=express&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-NestJS-e0234e?logo=nestjs&logoColor=white&logoWidth=25"/>&nbsp;&nbsp; 
 <img style="margin-right:5px" src="https://img.shields.io/badge/ReactJS-blue?logo=react&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-VueJS-42b883?logo=vue.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/NuxtJS-000?logo=nuxt.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<!-- <img style="margin-right:5px" src="https://img.shields.io/badge/NextJS-000?logo=next.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp; -->
 <img style="margin-right:5px" src="https://img.shields.io/badge/Deno-222222?logo=deno&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 
 ### Code challenges
