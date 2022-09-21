@@ -24,15 +24,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I was choiced by web development(yes, it choiced me, because at many times in our lives, the paths choice us! ). Since then, I study and improve myself more and more, knowing that the knowledge road is infinity, but the walk is sublime.!
 
 ### Technologies that I use and study
-<img style="margin-right:5px" src="https://img.shields.io/badge/-CSharp-280068?logo=csharp&logoColor=whiteSmoke&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <!--<img style="margin-right:5px" src="https://img.shields.io/badge/-Python-FFD242?logo=python&logoColor=whiteSmoke&logoWidth=25"/>&nbsp;&nbsp;-->
-<!-- <img style="margin-right:5px" src="https://img.shields.io/badge/-ExpressJS-000?logo=express&logoColor=white&logoWidth=25"/>&nbsp;&nbsp; -->
-<img style="margin-right:5px" src="https://img.shields.io/badge/.Net-684D95?logo=dotnet&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-NodeJS-393?logo=node.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/-NestJS-000?logo=nestjs&logoColor=E0234E&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/ReactJS-blue?logo=react&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<!--<img style="margin-right:5px" src="https://img.shields.io/badge/Deno-222222?logo=deno&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;-->
+<img style="margin-right:5px" src="https://img.shields.io/badge/Deno-222222?logo=deno&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 
 
 ### Code challenges
