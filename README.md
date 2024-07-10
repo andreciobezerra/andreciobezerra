@@ -31,6 +31,7 @@
 <img style="margin-right:5px" src="https://img.shields.io/badge/-NodeJS-393?logo=node.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/-NestJS-000?logo=nestjs&logoColor=E0234E&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px" src="https://img.shields.io/badge/ReactJS-blue?logo=react&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px" src="https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <!--<img style="margin-right:5px" src="https://img.shields.io/badge/Deno-222222?logo=deno&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;-->
 
 
