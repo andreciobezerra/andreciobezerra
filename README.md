@@ -25,25 +25,25 @@
 
 ### Technologies that I use and study
 <!--<img style="margin-right:5px" src="https://img.shields.io/badge/-Dotnet-605ca9?logo=dotnet&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;-->
-<img style="margin-right:5px" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-Java-FFFFFF?logo=openjdk&logoColor=red&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-NodeJS-393?logo=node.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/-NestJS-000?logo=nestjs&logoColor=E0234E&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/ReactJS-blue?logo=react&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px" src="https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-Elixir-3A1D4D?logo=elixir&logoColor=write&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-NodeJS-393?logo=node.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-NestJS-000?logo=nestjs&logoColor=E0234E&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/ReactJS-blue?logo=react&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <!--<img style="margin-right:5px" src="https://img.shields.io/badge/Deno-222222?logo=deno&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;-->
 
 
 ### Code challenges
 
 <a style="text-decoration:none" target="_blank" href="https://exercism.io/profiles/AndrecioBezerra">
-  <img style="margin-right:5px" src="https://img.shields.io/badge/-Excercism-009CAB?logo=exercism&logoColor=white&logoWidth=25"/>
+  <img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-Excercism-009CAB?logo=exercism&logoColor=white&logoWidth=25"/>
 </a>&nbsp;&nbsp;
 <a style="text-decoration:none" target="_blank" href="https://www.hackerrank.com/andreciobezerra">
-  <img style="margin-right:5px" src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&logoWidth=25"/>
+  <img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&logoWidth=25"/>
 </a>
-
+<br/>
 <br/>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreciobezerra&layout=compact&theme=dark)](https://github.com/andreciobezerra/github-readme-stats)
