@@ -25,13 +25,13 @@
 
 ### Technologies that I use and study
 <!--<img style="margin-right:5px" src="https://img.shields.io/badge/-Dotnet-605ca9?logo=dotnet&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;-->
+<!-- <img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-Elixir-3A1D4D?logo=elixir&logoColor=write&logoWidth=25"/>&nbsp;&nbsp; -->
 <img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-Elixir-3A1D4D?logo=elixir&logoColor=write&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-NodeJS-393?logo=node.js&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/-NestJS-000?logo=nestjs&logoColor=E0234E&logoWidth=25"/>&nbsp;&nbsp;
 <img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/ReactJS-blue?logo=react&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
-<img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
+<img style="margin-right:5px;height:20px" src="https://img.shields.io/badge/VueJS-4FC08D?logo=vuedotjs&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;
 <!--<img style="margin-right:5px" src="https://img.shields.io/badge/Deno-222222?logo=deno&logoColor=white&logoWidth=25"/>&nbsp;&nbsp;-->
 
 
